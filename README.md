@@ -4,7 +4,7 @@ Please follow up rules on the Oracle website (x86 http://www.oracle.com/technetw
 
 ## Goal
 
-This repository provides easy to download Oracle instantclient used in Dockerfiles.
+This repository provides easy to download Oracle instantclient that are used with [Laradock](https://github.com/laradock/laradock).
 
 Thank you.
 
