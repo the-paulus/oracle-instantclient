@@ -6,8 +6,10 @@ Please follow up rules on the Oracle website (x86 http://www.oracle.com/technetw
 
 This repository provides easy to download Oracle instantclient that are used with [Laradock](https://github.com/laradock/laradock).
 
-Thank you.
-
 ## Installation
 
 Take a look at [installation guide for Ubuntu](https://help.ubuntu.com/community/Oracle%20Instant%20Client).
+
+## Contributing
+
+I do not accept pull requests for this repository. If you'd like a new version added then create an [issue](https://github.com/the-paulus/oracle-instantclient/issues).
